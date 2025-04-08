@@ -1,3 +1,3 @@
-# EcoGrip-X V2.1
+# EcoGrip-X V2.2
 
-Version enrichie avec visuels techniques et design amélioré.
+Version modernisée du site avec design responsive, visuels intégrés et structure optimisée.

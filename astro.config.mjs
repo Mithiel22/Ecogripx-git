@@ -1,5 +1,2 @@
 import { defineConfig } from 'astro/config';
-
-export default defineConfig({
-  outDir: 'dist',
-});
+export default defineConfig({ outDir: 'dist' });
