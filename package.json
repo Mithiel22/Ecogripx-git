@@ -1,6 +1,6 @@
 {
-  "name": "ecogripx",
-  "version": "2.3.0",
+  "name": "ecogripx-v2.5",
+  "type": "module",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
