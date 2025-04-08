@@ -4,18 +4,31 @@ title: "Accueil - EcoGrip-X"
 <html lang="fr">
   <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>EcoGrip-X - Le pneu vivant</title>
     <style>
-      body { font-family: sans-serif; background: #f1f5f4; color: #1d3b2a; padding: 2rem; }
-      h1 { font-size: 2.8rem; color: #245D41; }
-      nav a { margin-right: 1rem; color: #1d3b2a; text-decoration: none; font-weight: bold; }
-      img { max-width: 100%; height: auto; margin-top: 1rem; border-radius: 12px; box-shadow: 0 0 8px #ccc; }
+      body { font-family: sans-serif; background: #f0f6f2; color: #1e3d2f; margin: 0; }
+      header { background: #245D41; padding: 1rem; color: white; text-align: center; }
+      nav a { margin: 0 1rem; color: white; text-decoration: none; font-weight: bold; }
+      main { padding: 2rem; display: flex; flex-direction: column; align-items: center; text-align: center; }
+      h1 { font-size: 3rem; margin-bottom: 0.5rem; }
+      p { font-size: 1.25rem; max-width: 800px; }
+      img { margin-top: 2rem; max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 0 10px #ccc; }
     </style>
   </head>
   <body>
-    <h1>EcoGrip-X</h1>
-    <p>Le pneu vivant, libre et partagé.</p>
-    <p><a href="/le-pneu">Le Pneu</a> | <a href="/vision">Vision</a> | <a href="/contribuer">Contribuer</a></p>
-    <img src="/pneu-ecogripx.png" alt="Pneu vert EcoGrip-X" />
+    <header>
+      <h1>EcoGrip-X</h1>
+      <nav>
+        <a href="/">Accueil</a>
+        <a href="/le-pneu">Le Pneu</a>
+        <a href="/vision">Vision</a>
+        <a href="/contribuer">Contribuer</a>
+      </nav>
+    </header>
+    <main>
+      <p>Le pneu vivant, libre et partagé. Un projet open source pour une mobilité plus douce et respectueuse du vivant.</p>
+      <img src="/pneu-ecogripx.png" alt="Pneu EcoGrip-X" />
+    </main>
   </body>
 </html>
