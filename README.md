@@ -1,3 +1,3 @@
-# EcoGrip-X V2
+# EcoGrip-X V2.1
 
-Site vitrine enrichi du projet open source EcoGrip-X, conçu avec AstroJS.
+Version enrichie avec visuels techniques et design amélioré.

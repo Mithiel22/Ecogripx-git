@@ -1,5 +1,5 @@
 {
-  "name": "ecogripx-v2",
+  "name": "ecogripx-v2.1",
   "type": "module",
   "scripts": {
     "dev": "astro dev",
