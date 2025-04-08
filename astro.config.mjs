@@ -1,2 +1,5 @@
-import { defineConfig } from 'astro/config';
-export default defineConfig({ outDir: 'dist' });
+import { defineConfig } from "astro/config";
+
+export default defineConfig({
+  output: "static"
+});
